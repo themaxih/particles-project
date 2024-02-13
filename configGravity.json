@@ -1,0 +1,36 @@
+{
+	"WindowTitle": "Project particles - Particules: 0 - TPS: 0",
+	"WindowSizeX": 800,
+    "WindowSizeY": 600,
+	"ParticleImage": "assets/particleHalo.png",
+	"Debug": false,
+
+	"InitNumParticles": 2000,
+	"SpawnRate": 0,
+
+	"RandomSpawnX": true,
+	"RandomSpawnY": false,
+	"SpawnX": 400,
+	"SpawnY": -10,
+
+	"RandomSpawnColor": false,
+	"DefaultSpawnColor": "aqua",
+
+	"RandomSpawnOpacity": false,
+	"ToggleVanish": true,
+	"ToggleEpilepsie": false,
+
+	"LifeSpan": 300,
+	"MaxParticles": 2000,
+	"ToggleRespawn": true,
+
+	"SpeedMultiplier": 1,
+	"ParticleGravity": 1.02,
+
+	"EventOnClick": false,
+	"Preset": "none",
+
+	"RockPaperScissors": false,
+
+	"ToggleBounce": false
+}

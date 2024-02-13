@@ -1,0 +1,36 @@
+{
+	"WindowTitle": "Project particles - Particules: 0 - TPS: 0",
+	"WindowSizeX": 800,
+    "WindowSizeY": 600,
+	"ParticleImage": "assets/particleHalo.png",
+	"Debug": false,
+
+	"InitNumParticles": 2000,
+	"SpawnRate": 0,
+
+	"RandomSpawnX": true,
+	"RandomSpawnY": true,
+	"SpawnX": 400,
+	"SpawnY": 300,
+
+	"RandomSpawnColor": false,
+	"DefaultSpawnColor": "aqua",
+
+	"RandomSpawnOpacity": false,
+	"ToggleVanish": false,
+	"ToggleEpilepsie": false,
+
+	"LifeSpan": -1,
+	"MaxParticles": 100,
+	"ToggleRespawn": true,
+
+	"SpeedMultiplier": 2,
+	"ParticleGravity": 0,
+
+	"EventOnClick": false,
+	"Preset": "img-https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png",
+
+	"RockPaperScissors": false,
+
+	"ToggleBounce": false
+}

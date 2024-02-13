@@ -1,0 +1,36 @@
+{
+	"WindowTitle": "Project particles - Particules: 0 - TPS: 0",
+	"WindowSizeX": 350,
+    "WindowSizeY": 300,
+	"ParticleImage": "assets/particle.png",
+	"Debug": false,
+
+	"InitNumParticles": 666,
+	"SpawnRate": 0,
+
+	"RandomSpawnX": true,
+	"RandomSpawnY": true,
+	"SpawnX": 200,
+	"SpawnY": 150,
+
+	"RandomSpawnColor": false,
+	"DefaultSpawnColor": "aqua",
+
+	"RandomSpawnOpacity": false,
+	"ToggleVanish": false,
+	"ToggleEpilepsie": false,
+
+	"LifeSpan": -1,
+	"MaxParticles": 666,
+	"ToggleRespawn": false,
+
+	"SpeedMultiplier": 2,
+	"ParticleGravity": 0,
+
+	"EventOnClick": false,
+	"Preset": "none",
+
+	"RockPaperScissors": true,
+
+	"ToggleBounce": true
+}
